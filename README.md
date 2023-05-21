@@ -16,12 +16,18 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Screenshot
 
+![Screenshot 2023-05-21 at 04 32 29](https://user-images.githubusercontent.com/69512496/c038fbef-1474-4d69-8dd5-2bd1ad11f3d8.png)
+
+<img width="1191" alt="Screenshot 2023-05-21 at 04 32 29" src="https://github.com/hassanidris/news-homepage/assets/69512496/c038fbef-1474-4d69-8dd5-2bd1ad11f3d8">
+
 ![](./screenshot.jpg)
+<img width="1191" alt="Screenshot 2023-05-21 at 04 32 29" src="https://github.com/hassanidris/news-homepage/assets/69512496/b786649e-589d-4091-b2c2-728704b1b0a3">
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/hassanidris/news-homepage
+- Live Site URL: https://hassanidris.github.io/news-homepage/
 
 ## My process
 
