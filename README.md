@@ -16,7 +16,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Screenshot
 
-![Screenshot 2023-05-21 at 04 32 29](https://user-images.githubusercontent.com/69512496/c038fbef-1474-4d69-8dd5-2bd1ad11f3d8.png)
+![Screenshot 2023-05-21 at 04 32 29](https://github.com/hassanidris/news-homepage/assets/69512496/c038fbef-1474-4d69-8dd5-2bd1ad11f3d8)
 
 <img width="1191" alt="Screenshot 2023-05-21 at 04 32 29" src="https://github.com/hassanidris/news-homepage/assets/69512496/c038fbef-1474-4d69-8dd5-2bd1ad11f3d8">
 
