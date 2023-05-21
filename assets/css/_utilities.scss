@@ -1,0 +1,29 @@
+/* 
+//
+//
+----------------  Utilities Styling ---------------- 
+//
+//
+*/
+
+// .visually-hidden:not(:focus):not(:active) {
+//     clip: rect(0 0 0 0);
+//     clip-path: inset(50%);
+//     height: 1px;
+//     overflow: hidden;
+//     position: absolute;
+//     white-space: nowrap;
+//     width: 1px;
+// }
+
+.container {
+    // margin: 0 auto;
+    margin-inline: 1rem;
+
+    // @media (min-width: 768px) {
+    //     margin-top: 3rem;
+    // }
+}
+
+
+

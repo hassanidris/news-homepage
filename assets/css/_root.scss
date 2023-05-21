@@ -1,0 +1,36 @@
+
+/* 
+//
+//
+----------------  Root Styling ---------------- 
+//
+//
+*/
+
+
+:root {
+
+    //  ### Primary
+    --clr-prm-400-softOrange: hsl(35, 77%, 62%);
+    --clr-prm-400-softRed: hsl(5, 85%, 63%);
+
+    //  ### Neutral
+    --clr-nut-100-offWhite: hsl(36, 100%, 99%);
+    --clr-nut-200-grayishBlue: hsl(233, 8%, 79%);
+    --clr-nut-600-darkGrayishBlue: hsl(236, 13%, 42%);
+    --clr-nut-900-veryDarkBlue: hsl(240, 100%, 5%);
+
+    //  ## Typography
+    --ff-inter: 'Inter', sans-serif;
+
+    --fw-normal: 400;
+    --fw-bold: 700;
+    --fw-extraBold: 800;
+
+    --fs-400: .9375rem; // body font
+    --fs-500: 1rem; // buttons font
+    --fs-600: 1.125rem; // h4
+    --fs-700: 1.25rem; // h3
+    --fs-800: 1.9rem; // h2
+    --fs-900: 2.5rem; // h1
+}
