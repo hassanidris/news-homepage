@@ -239,6 +239,11 @@
         font-size: var(--fs-600);
         font-weight: var(--fw-bold);
         color: var(--clr-nut-900-veryDarkBlue);
+
+        &:hover {
+            color: var(--clr-prm-400-softOrange);
+            cursor: pointer;
+        }
     }
 
     &__desc {
